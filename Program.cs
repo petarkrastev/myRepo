@@ -22,7 +22,7 @@ namespace Eratosten
             }
 
             // We skip 1
-            for (int i = 1; i < N; i++)
+            for (int i = 1; i < Math.Sqrt(N); i++)
             {
                 if (!numbers[i].IsPrime)
                     continue;
