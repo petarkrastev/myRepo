@@ -1,0 +1,13 @@
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.exe
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.deps.json
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.runtimeconfig.json
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.runtimeconfig.dev.json
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.dll
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\bin\Debug\netcoreapp3.1\Eratosten.pdb
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.csprojAssemblyReference.cache
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.AssemblyInfoInputs.cache
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.AssemblyInfo.cs
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.csproj.CoreCompileInputs.cache
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.dll
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.pdb
+C:\Users\PetarKrastev\source\repos\Eratosten\Eratosten\obj\Debug\netcoreapp3.1\Eratosten.genruntimeconfig.cache
